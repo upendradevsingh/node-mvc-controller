@@ -2,14 +2,11 @@
   "author": "Upendra Dev Singh",
   "name": "node-mvc-controller",
   "description": "Node plugin to scan and initiate all the controllers",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "repository": {
     "url": "https://github.com/upendradevsingh/node-mvc-controller.git"
   },
-  "main": "./lib/main",
-  "bin": {
-    "scan": "./bin/scan"
-  },
+  "main": "./lib/scan",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},

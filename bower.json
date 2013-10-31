@@ -1,0 +1,16 @@
+{
+  "name": "node-mvc-controller",
+  "version": "0.1.5",
+  "homepage": "https://github.com/upendradevsingh/node-mvc-controller",
+  "authors": [
+    "Upendra Dev Singh <upendradevsingh@outlook.com>"
+  ],
+  "description": "npm pulgin to structure the controller in a better way.",
+  "main": "./lib/scan",
+  "keywords": [
+    "controller",
+    "routes",
+    "handler"
+  ],
+  "license": "MIT"
+}
